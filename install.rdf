@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <!-- properties -->
+    <em:id>ChessBrowserExtension@chess.com</em:id>
+    <em:name>Chess Browser Extension</em:name>
+    <em:minVersion>1.5</em:minVersion>
+    <em:maxVersion>150</em:maxVersion>
+    <em:type>2</em:type>
+    <em:version>0.0.7</em:version>
+    <em:description>Customize your Chess.com Experience</em:description>
+    <em:homepageURL>https://www.chess.com/</em:homepageURL>
+  </Description>
+</RDF>
