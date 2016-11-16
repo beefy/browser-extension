@@ -1,17 +1,17 @@
 {
   "version": "0.0.7",
-  "type": "2",
   "name": "Chess Browser Extension",
   "manifest_version": 2,
   "description": "Customize your Chess.com Experience",
   "browser_action": {
     "default_title": "Chess.com Browser Extension",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "chrome/assets/img/icon-48.png"
   },
   "icons": {
-    "16": "img/icon-16.png",
-    "48": "img/icon-48.png",
-    "128": "img/icon-128.png"
+    "16": "chrome/assets/img/icon-16.png",
+    "48": "chrome/assets/img/icon-48.png",
+    "128": "chrome/assets/img/icon-128.png"
   },
   "web_accessible_resources": [
     "inject.html",
